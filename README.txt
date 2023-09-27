@@ -31,3 +31,6 @@ python manage.py runserver
  
 
  pip install 
+
+#создаём фаил с зависимости
+pip freeze >requirements.txt
